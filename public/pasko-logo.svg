@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140" width="540" height="140" role="img" aria-label="PASKO Government Exam Finder">
+  <defs>
+    <path id="pasko-rim-logo" d="M 70,70 m -48,0 a 48,48 0 1,1 96,0 a 48,48 0 1,1 -96,0" fill="none"/>
+  </defs>
+
+  <!-- Seal -->
+  <g color="#10233F">
+    <circle cx="70" cy="70" r="57" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="70" cy="70" r="51" fill="none" stroke="currentColor" stroke-width="1"/>
+    <text font-size="6.2" letter-spacing="2.2" fill="currentColor" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="600">
+      <textPath href="#pasko-rim-logo" startOffset="2%">GOVERNMENT EXAM FINDER • REPUBLIC OF INDIA •</textPath>
+    </text>
+    <circle cx="70" cy="70" r="41" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="2 3" opacity="0.7"/>
+    <path d="M 70 43 l 2.2 5.6 l 5.8 0.4 l -4.5 3.7 l 1.6 5.6 l -5.1 -3.1 l -5.1 3.1 l 1.6 -5.6 l -4.5 -3.7 l 5.8 -0.4 z" fill="currentColor" opacity="0.9"/>
+    <text x="70" y="78" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="1" fill="currentColor" font-family="Georgia, 'Times New Roman', serif">PASKO</text>
+    <text x="70" y="88" text-anchor="middle" font-size="4.6" letter-spacing="1.4" fill="currentColor" opacity="0.7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">EST. 2026</text>
+    <path d="M 58 94 L 82 94" stroke="currentColor" stroke-width="1" opacity="0.6"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="156" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" letter-spacing="2" fill="#10233F">PASKO</text>
+  <text x="158" y="102" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="15" font-weight="500" letter-spacing="0.4" fill="#E1631F">Government Exam Finder</text>
+</svg>
